@@ -67,6 +67,6 @@ This end-to-end data engineering and analytics project focuses on analyzing synt
 ## Output
 
  **Dashboard Title**: *Laptop Insights Dashboard: Compare Brands, Features & Prices*  
-[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/anushree.biswas/viz/Compare_brands_price_features_for_laptops/Dashboard1)
+[View Dashboard on Tableau](https://public.tableau.com/app/profile/anushree.biswas/viz/Compare_brands_price_features_for_laptops/Dashboard1)
 
 
